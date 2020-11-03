@@ -1,0 +1,28 @@
+idFiltro;codigoCriterio;respuesta                             ;codigoRespuesta  ;observacion;responsable;observaciones;actividad;primerSeguimiento
+1       ;65            ;Cumple                                ;C                ;observacion;           ;             ;         ;
+2       ;66            ;Cumple Parcialmente                   ;CP               ;           ;responsable;observaciones;actividad;30/Nov/2020
+3       ;67            ;Cumple Parcialmente Y Es Reiteretivo  ;CPR              ;           ;responsable;observaciones;actividad;27/Nov/2020
+4       ;68            ;No Cumple                             ;NC               ;           ;responsable;observaciones;actividad;30/Nov/2020
+5       ;69            ;No Aplica                             ;NA               ;observacion;           ;             ;         ;
+6       ;70            ;Cumple                                ;C                ;observacion;           ;             ;         ;
+7       ;71            ;Cumple Parcialmente                   ;CP               ;           ;responsable;observaciones;actividad;30/Nov/2020
+8       ;72            ;Cumple Parcialmente Y Es Reiteretivo  ;CPR              ;           ;responsable;observaciones;actividad;27/Nov/2020
+9       ;73            ;No Cumple                             ;NC               ;           ;responsable;observaciones;actividad;30/Nov/2020
+10      ;74            ;No Aplica                             ;NA               ;observacion;           ;             ;         ;
+11      ;75            ;Cumple                                ;C                ;observacion;           ;             ;         ;
+12      ;76            ;Cumple Parcialmente                   ;CP               ;           ;responsable;observaciones;actividad;30/Nov/2020
+13      ;77            ;Cumple Parcialmente Y Es Reiteretivo  ;CPR              ;           ;responsable;observaciones;actividad;27/Nov/2020
+14      ;78            ;No Cumple                             ;NC               ;           ;responsable;observaciones;actividad;30/Nov/2020
+15      ;79            ;No Aplica                             ;NA               ;observacion;           ;             ;         ;
+16      ;80            ;Cumple                                ;C                ;observacion;           ;             ;         ;
+17      ;81            ;Cumple Parcialmente                   ;CP               ;           ;responsable;observaciones;actividad;30/Nov/2020
+18      ;82            ;Cumple Parcialmente Y Es Reiteretivo  ;CPR              ;           ;responsable;observaciones;actividad;27/Nov/2020
+19      ;83            ;No Cumple                             ;NC               ;           ;responsable;observaciones;actividad;30/Nov/2020
+20      ;84            ;No Aplica                             ;NA               ;observacion;           ;             ;         ;
+21      ;85            ;Cumple                                ;C                ;observacion;           ;             ;         ;
+22      ;86            ;Cumple Parcialmente                   ;CP               ;           ;responsable;observaciones;actividad;30/Nov/2020
+23      ;87            ;Cumple Parcialmente Y Es Reiteretivo  ;CPR              ;           ;responsable;observaciones;actividad;27/Nov/2020
+24      ;88            ;No Cumple                             ;NC               ;           ;responsable;observaciones;actividad;30/Nov/2020
+25      ;89            ;No Aplica                             ;NA               ;observacion;           ;             ;         ;
+26      ;90            ;Cumple                                ;C                ;observacion;           ;             ;         ;
+27      ;91            ;Cumple Parcialmente                   ;CP               ;           ;responsable;observaciones;actividad;30/Nov/2020
